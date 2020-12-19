@@ -1,0 +1,664 @@
+INFO  03:35:00 Application started. Press Ctrl+C to shut down.
+INFO  03:35:00 Application started. Press Ctrl+C to shut down.
+INFO  03:35:00 Hosting environment: Development
+INFO  03:35:00 Hosting environment: Development
+INFO  03:35:00 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  03:35:00 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  03:35:30 Application started. Press Ctrl+C to shut down.
+INFO  03:35:30 Application started. Press Ctrl+C to shut down.
+INFO  03:35:30 Hosting environment: Development
+INFO  03:35:30 Hosting environment: Development
+INFO  03:35:30 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  03:35:30 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  03:38:05 Application started. Press Ctrl+C to shut down.
+INFO  03:38:05 Application started. Press Ctrl+C to shut down.
+INFO  03:38:05 Hosting environment: Development
+INFO  03:38:05 Hosting environment: Development
+INFO  03:38:05 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  03:38:05 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  03:39:55 Pharmacy supply details successfully retieved and sent.
+INFO  03:54:23 Pharmacy supply details successfully retieved and sent.
+INFO  03:55:33 Application started. Press Ctrl+C to shut down.
+INFO  03:55:33 Application started. Press Ctrl+C to shut down.
+INFO  03:55:34 Hosting environment: Development
+INFO  03:55:34 Hosting environment: Development
+INFO  03:55:34 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  03:55:34 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  03:56:20 Pharmacy supply details successfully retieved and sent.
+INFO  04:18:23 Application started. Press Ctrl+C to shut down.
+INFO  04:18:23 Application started. Press Ctrl+C to shut down.
+INFO  04:18:23 Hosting environment: Development
+INFO  04:18:23 Hosting environment: Development
+INFO  04:18:23 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  04:18:23 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  04:19:08 Application started. Press Ctrl+C to shut down.
+INFO  04:19:08 Application started. Press Ctrl+C to shut down.
+INFO  04:19:08 Hosting environment: Development
+INFO  04:19:08 Hosting environment: Development
+INFO  04:19:08 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  04:19:08 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  04:19:19 Pharmacy supply details successfully retieved and sent.
+INFO  04:20:28 Pharmacy supply details successfully retieved and sent.
+INFO  10:09:01 Application started. Press Ctrl+C to shut down.
+INFO  10:09:01 Application started. Press Ctrl+C to shut down.
+INFO  10:09:01 Hosting environment: Development
+INFO  10:09:01 Hosting environment: Development
+INFO  10:09:01 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  10:09:01 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  10:09:27 Application started. Press Ctrl+C to shut down.
+INFO  10:09:27 Application started. Press Ctrl+C to shut down.
+INFO  10:09:27 Hosting environment: Development
+INFO  10:09:27 Hosting environment: Development
+INFO  10:09:27 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  10:09:27 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  10:11:23 Application started. Press Ctrl+C to shut down.
+INFO  10:11:23 Application started. Press Ctrl+C to shut down.
+INFO  10:11:23 Hosting environment: Development
+INFO  10:11:23 Hosting environment: Development
+INFO  10:11:23 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  10:11:23 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  10:13:21 Application started. Press Ctrl+C to shut down.
+INFO  10:13:21 Application started. Press Ctrl+C to shut down.
+INFO  10:13:21 Hosting environment: Development
+INFO  10:13:21 Hosting environment: Development
+INFO  10:13:21 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  10:13:21 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  10:46:43 Application started. Press Ctrl+C to shut down.
+INFO  10:46:43 Application started. Press Ctrl+C to shut down.
+INFO  10:46:43 Hosting environment: Development
+INFO  10:46:43 Hosting environment: Development
+INFO  10:46:43 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  10:46:43 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  10:47:30 Pharmacy supply details successfully retieved and sent.
+INFO  02:25:44 Application started. Press Ctrl+C to shut down.
+INFO  02:25:44 Application started. Press Ctrl+C to shut down.
+INFO  02:25:44 Hosting environment: Development
+INFO  02:25:44 Hosting environment: Development
+INFO  02:25:44 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  02:25:44 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  02:26:37 Pharmacy supply details successfully retrieved and sent.
+ERROR 02:26:41 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:26:41 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:28:48 Pharmacy supply details successfully retrieved and sent.
+ERROR 02:28:48 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:28:48 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:31:26 Application started. Press Ctrl+C to shut down.
+INFO  02:31:26 Application started. Press Ctrl+C to shut down.
+INFO  02:31:27 Hosting environment: Development
+INFO  02:31:27 Hosting environment: Development
+INFO  02:31:27 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  02:31:27 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  02:31:57 Pharmacy supply details successfully retrieved and sent.
+INFO  02:31:57 Pharmacy supply details successfully retrieved and sent.
+ERROR 02:31:58 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:31:58 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:31:58 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:31:58 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:32:18 Pharmacy supply details successfully retrieved and sent.
+ERROR 02:32:19 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:32:19 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:35:20 Pharmacy supply details successfully retrieved and sent.
+ERROR 02:35:24 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:35:24 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:37:56 Application started. Press Ctrl+C to shut down.
+INFO  02:37:56 Application started. Press Ctrl+C to shut down.
+INFO  02:37:56 Hosting environment: Development
+INFO  02:37:56 Hosting environment: Development
+INFO  02:37:56 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  02:37:56 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  02:39:56 Pharmacy supply details successfully retrieved and sent.
+INFO  04:26:18 Application started. Press Ctrl+C to shut down.
+INFO  04:26:18 Application started. Press Ctrl+C to shut down.
+INFO  04:26:18 Hosting environment: Development
+INFO  04:26:18 Hosting environment: Development
+INFO  04:26:18 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  04:26:18 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  04:29:42 Pharmacies Data retieved
+ERROR 04:29:48 Excpetion:No connection could be made because the target machine actively refused it. has occurred while trying to retrieve supply info.
+INFO  04:32:11 Pharmacies Data retieved
+INFO  04:32:20 No data was gound in stock
+INFO  04:32:20 No data was gound in stock
+INFO  04:32:20 Medicines have been successfully supplied to the pharmacies
+INFO  04:32:20 Pharmacy supply details successfully retrieved and sent.
+INFO  04:32:25 Pharmacies Data retieved
+INFO  04:32:25 No data was gound in stock
+INFO  04:32:25 No data was gound in stock
+INFO  04:32:25 Medicines have been successfully supplied to the pharmacies
+INFO  04:32:25 Pharmacy supply details successfully retrieved and sent.
+INFO  04:33:47 Pharmacies Data retieved
+INFO  04:34:02 No data was gound in stock
+INFO  04:34:14 No data was gound in stock
+INFO  04:34:14 Medicines have been successfully supplied to the pharmacies
+INFO  04:34:14 Pharmacy supply details successfully retrieved and sent.
+INFO  04:34:57 Application started. Press Ctrl+C to shut down.
+INFO  04:34:57 Application started. Press Ctrl+C to shut down.
+INFO  04:34:57 Hosting environment: Development
+INFO  04:34:57 Hosting environment: Development
+INFO  04:34:57 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  04:34:57 Content root path: C:\Users\Lenovo\source\repos\PharmacyMedicineSupplyService
+INFO  04:35:08 Pharmacies Data retieved
+INFO  04:35:09 Retrieved data from medicine stock service
+INFO  04:35:09 Retrieved data from medicine stock service
+INFO  04:35:09 Medicines have been successfully supplied to the pharmacies
+INFO  04:35:09 Pharmacy supply details successfully retrieved and sent.
+INFO  09:11:09 Application started. Press Ctrl+C to shut down.
+INFO  09:11:09 Application started. Press Ctrl+C to shut down.
+INFO  09:11:09 Hosting environment: Development
+INFO  09:11:09 Hosting environment: Development
+INFO  09:11:09 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:11:09 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:12:01 Pharmacies Data retrieved
+INFO  09:12:02 Retrieved data from medicine stock service
+INFO  09:12:02 Retrieved data from medicine stock service
+INFO  09:12:02 Retrieved data from medicine stock service
+INFO  09:12:02 Retrieved data from medicine stock service
+INFO  09:12:02 Retrieved data from medicine stock service
+INFO  09:12:02 Medicines have been successfully supplied to the pharmacies
+INFO  09:12:02 Pharmacy supply details successfully retrieved and sent.
+INFO  09:16:34 Application started. Press Ctrl+C to shut down.
+INFO  09:16:34 Application started. Press Ctrl+C to shut down.
+INFO  09:16:34 Hosting environment: Development
+INFO  09:16:34 Hosting environment: Development
+INFO  09:16:34 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:16:34 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:19:51 Application started. Press Ctrl+C to shut down.
+INFO  09:19:51 Application started. Press Ctrl+C to shut down.
+INFO  09:19:51 Hosting environment: Development
+INFO  09:19:51 Hosting environment: Development
+INFO  09:19:51 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:19:51 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  12:30:23 Application started. Press Ctrl+C to shut down.
+INFO  12:30:23 Application started. Press Ctrl+C to shut down.
+INFO  12:30:23 Hosting environment: Development
+INFO  12:30:23 Hosting environment: Development
+INFO  12:30:23 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  12:30:23 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  12:39:22 Application started. Press Ctrl+C to shut down.
+INFO  12:39:22 Application started. Press Ctrl+C to shut down.
+INFO  12:39:22 Hosting environment: Development
+INFO  12:39:22 Hosting environment: Development
+INFO  12:39:22 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  12:39:22 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  01:20:59 Application started. Press Ctrl+C to shut down.
+INFO  01:20:59 Application started. Press Ctrl+C to shut down.
+INFO  01:20:59 Hosting environment: Development
+INFO  01:20:59 Hosting environment: Development
+INFO  01:20:59 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  01:20:59 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  01:31:02 Application started. Press Ctrl+C to shut down.
+INFO  01:31:02 Application started. Press Ctrl+C to shut down.
+INFO  01:31:02 Hosting environment: Development
+INFO  01:31:02 Hosting environment: Development
+INFO  01:31:02 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  01:31:02 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  02:01:40 Application started. Press Ctrl+C to shut down.
+INFO  02:01:40 Application started. Press Ctrl+C to shut down.
+INFO  02:01:40 Hosting environment: Development
+INFO  02:01:40 Hosting environment: Development
+INFO  02:01:40 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  02:01:40 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  02:13:06 Application started. Press Ctrl+C to shut down.
+INFO  02:13:06 Application started. Press Ctrl+C to shut down.
+INFO  02:13:06 Hosting environment: Development
+INFO  02:13:06 Hosting environment: Development
+INFO  02:13:06 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  02:13:06 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  02:13:31 Pharmacies Data retrieved
+INFO  02:13:31 Retrieved data from medicine stock service
+INFO  02:13:31 Retrieved data from medicine stock service
+INFO  02:13:31 Retrieved data from medicine stock service
+INFO  02:13:31 Retrieved data from medicine stock service
+INFO  02:13:31 Retrieved data from medicine stock service
+INFO  02:13:31 Medicines have been successfully supplied to the pharmacies
+INFO  02:13:31 Pharmacy supply details successfully retrieved and sent.
+INFO  09:20:23 Application started. Press Ctrl+C to shut down.
+INFO  09:20:23 Application started. Press Ctrl+C to shut down.
+INFO  09:20:23 Hosting environment: Development
+INFO  09:20:23 Hosting environment: Development
+INFO  09:20:23 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:20:23 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:24:44 Application started. Press Ctrl+C to shut down.
+INFO  09:24:44 Application started. Press Ctrl+C to shut down.
+INFO  09:24:44 Hosting environment: Development
+INFO  09:24:44 Hosting environment: Development
+INFO  09:24:44 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:24:44 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:25:17 Pharmacies Data retrieved
+INFO  09:25:18 Retrieved data from medicine stock service
+INFO  09:25:18 Retrieved data from medicine stock service
+INFO  09:25:18 Retrieved data from medicine stock service
+INFO  09:25:18 Retrieved data from medicine stock service
+INFO  09:25:18 Retrieved data from medicine stock service
+INFO  09:25:18 Medicines have been successfully supplied to the pharmacies
+INFO  09:25:18 Pharmacy supply details successfully retrieved and sent.
+INFO  09:34:38 Application started. Press Ctrl+C to shut down.
+INFO  09:34:38 Application started. Press Ctrl+C to shut down.
+INFO  09:34:38 Hosting environment: Development
+INFO  09:34:38 Hosting environment: Development
+INFO  09:34:38 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:34:38 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:36:34 Pharmacies Data retrieved
+INFO  09:36:34 Retrieved data from medicine stock service
+INFO  09:36:34 Retrieved data from medicine stock service
+INFO  09:36:34 Medicines have been successfully supplied to the pharmacies
+INFO  09:36:34 Pharmacy supply details successfully retrieved and sent.
+INFO  09:44:25 Application started. Press Ctrl+C to shut down.
+INFO  09:44:25 Application started. Press Ctrl+C to shut down.
+INFO  09:44:25 Hosting environment: Development
+INFO  09:44:25 Hosting environment: Development
+INFO  09:44:25 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:44:25 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:45:28 Pharmacies Data retrieved
+INFO  09:45:28 Retrieved data from medicine stock service
+INFO  09:45:28 Retrieved data from medicine stock service
+INFO  09:45:28 Retrieved data from medicine stock service
+INFO  09:45:28 Retrieved data from medicine stock service
+INFO  09:45:28 Retrieved data from medicine stock service
+INFO  09:45:28 Medicines have been successfully supplied to the pharmacies
+INFO  09:45:28 Pharmacy supply details successfully retrieved and sent.
+INFO  09:45:42 Pharmacies Data retrieved
+INFO  09:45:42 Retrieved data from medicine stock service
+INFO  09:45:42 Retrieved data from medicine stock service
+INFO  09:45:42 Retrieved data from medicine stock service
+INFO  09:45:43 Retrieved data from medicine stock service
+INFO  09:45:43 Retrieved data from medicine stock service
+INFO  09:45:43 Medicines have been successfully supplied to the pharmacies
+INFO  09:45:43 Pharmacy supply details successfully retrieved and sent.
+INFO  09:55:19 Application started. Press Ctrl+C to shut down.
+INFO  09:55:19 Application started. Press Ctrl+C to shut down.
+INFO  09:55:19 Hosting environment: Development
+INFO  09:55:19 Hosting environment: Development
+INFO  09:55:19 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:55:19 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:55:35 Pharmacies Data retrieved
+INFO  09:55:36 Retrieved data from medicine stock service
+INFO  09:55:36 Retrieved data from medicine stock service
+INFO  09:55:36 Retrieved data from medicine stock service
+INFO  09:55:36 Retrieved data from medicine stock service
+INFO  09:55:36 Retrieved data from medicine stock service
+INFO  09:55:36 Medicines have been successfully supplied to the pharmacies
+INFO  09:55:36 Pharmacy supply details successfully retrieved and sent.
+INFO  09:56:45 Application started. Press Ctrl+C to shut down.
+INFO  09:56:45 Application started. Press Ctrl+C to shut down.
+INFO  09:56:45 Hosting environment: Development
+INFO  09:56:45 Hosting environment: Development
+INFO  09:56:45 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:56:45 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:00:58 Application started. Press Ctrl+C to shut down.
+INFO  10:00:58 Application started. Press Ctrl+C to shut down.
+INFO  10:00:58 Hosting environment: Development
+INFO  10:00:58 Hosting environment: Development
+INFO  10:00:58 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:00:58 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:01:45 Pharmacies Data retrieved
+INFO  10:01:45 Retrieved data from medicine stock service
+INFO  10:01:46 Retrieved data from medicine stock service
+INFO  10:01:46 Retrieved data from medicine stock service
+INFO  10:01:46 Medicines have been successfully supplied to the pharmacies
+INFO  10:01:46 Pharmacy supply details successfully retrieved and sent.
+INFO  10:03:35 Application started. Press Ctrl+C to shut down.
+INFO  10:03:35 Application started. Press Ctrl+C to shut down.
+INFO  10:03:35 Hosting environment: Development
+INFO  10:03:35 Hosting environment: Development
+INFO  10:03:35 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:03:35 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:09:22 Application started. Press Ctrl+C to shut down.
+INFO  10:09:22 Application started. Press Ctrl+C to shut down.
+INFO  10:09:22 Hosting environment: Development
+INFO  10:09:22 Hosting environment: Development
+INFO  10:09:22 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:09:22 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:11:31 Pharmacies Data retrieved
+INFO  10:11:31 Medicines have been successfully supplied to the pharmacies
+INFO  10:11:31 No details retrieved
+INFO  10:12:40 Pharmacies Data retrieved
+INFO  10:12:40 Medicines have been successfully supplied to the pharmacies
+INFO  10:12:40 No details retrieved
+INFO  10:32:07 Application started. Press Ctrl+C to shut down.
+INFO  10:32:07 Application started. Press Ctrl+C to shut down.
+INFO  10:32:07 Hosting environment: Development
+INFO  10:32:07 Hosting environment: Development
+INFO  10:32:07 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:32:07 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:33:31 Pharmacies Data retrieved
+INFO  10:33:31 Retrieved data from medicine stock service
+INFO  10:33:31 Medicines have been successfully supplied to the pharmacies
+INFO  10:33:31 Pharmacy supply details successfully retrieved and sent.
+INFO  11:14:46 Application started. Press Ctrl+C to shut down.
+INFO  11:14:46 Application started. Press Ctrl+C to shut down.
+INFO  11:14:46 Hosting environment: Development
+INFO  11:14:46 Hosting environment: Development
+INFO  11:14:46 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  11:14:46 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  11:15:14 Pharmacies Data retrieved
+INFO  11:15:14 Retrieved data from medicine stock service
+INFO  11:15:15 Retrieved data from medicine stock service
+INFO  11:15:15 Retrieved data from medicine stock service
+INFO  11:15:15 Retrieved data from medicine stock service
+INFO  11:15:15 Retrieved data from medicine stock service
+INFO  11:15:15 Medicines have been successfully supplied to the pharmacies
+INFO  11:15:15 Pharmacy supply details successfully retrieved and sent.
+INFO  11:45:25 Application started. Press Ctrl+C to shut down.
+INFO  11:45:25 Application started. Press Ctrl+C to shut down.
+INFO  11:45:25 Hosting environment: Development
+INFO  11:45:25 Hosting environment: Development
+INFO  11:45:25 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  11:45:25 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  11:47:51 Pharmacies Data retrieved
+INFO  11:47:51 Medicines have been successfully supplied to the pharmacies
+INFO  11:47:51 No details retrieved
+INFO  11:47:59 Pharmacies Data retrieved
+INFO  11:47:59 Medicines have been successfully supplied to the pharmacies
+INFO  11:47:59 No details retrieved
+INFO  11:48:31 Pharmacies Data retrieved
+INFO  11:48:32 Retrieved data from medicine stock service
+INFO  11:48:33 Medicines have been successfully supplied to the pharmacies
+INFO  11:48:33 Pharmacy supply details successfully retrieved and sent.
+INFO  11:49:54 Application started. Press Ctrl+C to shut down.
+INFO  11:49:54 Application started. Press Ctrl+C to shut down.
+INFO  11:49:54 Hosting environment: Development
+INFO  11:49:54 Hosting environment: Development
+INFO  11:49:54 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  11:49:54 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  08:30:16 Application started. Press Ctrl+C to shut down.
+INFO  08:30:16 Application started. Press Ctrl+C to shut down.
+INFO  08:30:16 Hosting environment: Development
+INFO  08:30:16 Hosting environment: Development
+INFO  08:30:16 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  08:30:16 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  08:53:28 Application started. Press Ctrl+C to shut down.
+INFO  08:53:28 Application started. Press Ctrl+C to shut down.
+INFO  08:53:28 Hosting environment: Development
+INFO  08:53:28 Hosting environment: Development
+INFO  08:53:28 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  08:53:28 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:04:00 Application started. Press Ctrl+C to shut down.
+INFO  09:04:01 Application started. Press Ctrl+C to shut down.
+INFO  09:04:01 Hosting environment: Development
+INFO  09:04:01 Hosting environment: Development
+INFO  09:04:01 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:04:01 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:05:42 Application started. Press Ctrl+C to shut down.
+INFO  09:05:42 Application started. Press Ctrl+C to shut down.
+INFO  09:05:42 Hosting environment: Development
+INFO  09:05:42 Hosting environment: Development
+INFO  09:05:42 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:05:42 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:17:58 Application started. Press Ctrl+C to shut down.
+INFO  09:17:58 Application started. Press Ctrl+C to shut down.
+INFO  09:17:58 Hosting environment: Development
+INFO  09:17:58 Hosting environment: Development
+INFO  09:17:58 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:17:58 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:54:41 Application started. Press Ctrl+C to shut down.
+INFO  09:54:42 Application started. Press Ctrl+C to shut down.
+INFO  09:54:42 Hosting environment: Development
+INFO  09:54:42 Hosting environment: Development
+INFO  09:54:42 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  09:54:42 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:03:47 Application started. Press Ctrl+C to shut down.
+INFO  10:03:47 Application started. Press Ctrl+C to shut down.
+INFO  10:03:47 Hosting environment: Development
+INFO  10:03:47 Hosting environment: Development
+INFO  10:03:47 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:03:47 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:15:02 Application started. Press Ctrl+C to shut down.
+INFO  10:15:02 Application started. Press Ctrl+C to shut down.
+INFO  10:15:02 Hosting environment: Development
+INFO  10:15:02 Hosting environment: Development
+INFO  10:15:02 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:15:02 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:17:02 Application started. Press Ctrl+C to shut down.
+INFO  10:17:02 Application started. Press Ctrl+C to shut down.
+INFO  10:17:02 Hosting environment: Development
+INFO  10:17:02 Hosting environment: Development
+INFO  10:17:02 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:17:02 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:26:56 Application started. Press Ctrl+C to shut down.
+INFO  10:26:57 Application started. Press Ctrl+C to shut down.
+INFO  10:26:57 Hosting environment: Development
+INFO  10:26:57 Hosting environment: Development
+INFO  10:26:57 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:26:57 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:30:49 Application started. Press Ctrl+C to shut down.
+INFO  10:30:49 Application started. Press Ctrl+C to shut down.
+INFO  10:30:49 Hosting environment: Development
+INFO  10:30:49 Hosting environment: Development
+INFO  10:30:49 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:30:49 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:35:41 Application started. Press Ctrl+C to shut down.
+INFO  10:35:41 Application started. Press Ctrl+C to shut down.
+INFO  10:35:41 Hosting environment: Development
+INFO  10:35:41 Hosting environment: Development
+INFO  10:35:41 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:35:41 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:36:42 Pharmacies Data retrieved
+INFO  10:36:43 Retrieved data from medicine stock service
+INFO  10:36:43 Medicines have been successfully supplied to the pharmacies
+INFO  10:36:43 Pharmacy supply details successfully retrieved and sent.
+INFO  10:46:10 Application started. Press Ctrl+C to shut down.
+INFO  10:46:10 Application started. Press Ctrl+C to shut down.
+INFO  10:46:10 Hosting environment: Development
+INFO  10:46:10 Hosting environment: Development
+INFO  10:46:10 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:46:10 Content root path: C:\Users\wasim\OneDrive\Desktop\MFPE Local - Copy\PharmacyMedicineSupplyManagement-1\PharmacyMedicineSupplyService
+INFO  10:46:44 Pharmacies Data retrieved
+INFO  10:46:44 Retrieved data from medicine stock service
+INFO  10:46:44 Medicines have been successfully supplied to the pharmacies
+INFO  10:46:44 Pharmacy supply details successfully retrieved and sent.
