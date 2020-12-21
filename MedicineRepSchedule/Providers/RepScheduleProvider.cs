@@ -81,7 +81,10 @@ namespace MedicalRepresentativeSchedule.Providers
                         _dates.Add(start);
                         workDays++;
                     }
-
+                    if(workDays==5)
+                    {
+                        break;
+                    }
                     start = start.AddDays(1);
                 }
                 _repNames = GetRepresentatives();
